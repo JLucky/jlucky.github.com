@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Home Page
+title: 主页
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
-#### Welcome to Jacob's Blog.
-### Blog List
+#### 欢迎来到 Jacob 的Blog.
+### 时间线
 
 <ul class="posts">
   {% for post in site.posts %}
