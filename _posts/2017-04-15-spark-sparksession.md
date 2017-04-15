@@ -11,7 +11,7 @@ tags: []
 
 ### 一、SparkSession的创建与获取
 
-1. 创建一个新的SparkSession
+##### 1. 创建一个新的SparkSession
 ```
 SparkSession.builder()
   .master("local")
@@ -19,7 +19,7 @@ SparkSession.builder()
   .config("spark.some.config.option", "some-value")
   .getOrCreate()
 ```
-2. 获取一个已经创建的SparkSession
+##### 2. 获取一个已经创建的SparkSession
 ```
 SparkSession.builder().getOrCreate()
 ```
