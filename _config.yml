@@ -85,7 +85,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : jekyllbootstrap
+      short_name : jekyllbootstrap13345677
     livefyre :
       site_id : 13345677
     intensedebate :
