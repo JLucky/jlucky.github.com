@@ -87,11 +87,11 @@ JB :
     disqus :
       short_name : jekyllbootstrap
     livefyre :
-      site_id : 123
+      site_id : 13345677
     intensedebate :
-      account : 123abc
+      account : 13345677abc
     facebook :
-      appid : 123
+      appid : 13345677
       num_posts: 5
       width: 580
       colorscheme: light
